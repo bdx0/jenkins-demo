@@ -10,6 +10,7 @@ pipepline {
       steps {
         sh 'python --version'
       }
+    }
   }
 }
   
